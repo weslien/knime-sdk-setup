@@ -139,7 +139,6 @@
 <unit id="org.knime.features.xgboost.feature.group" version="0.0.0"/>
 <unit id="org.knime.features.xml.feature.group" version="0.0.0"/>
 <unit id="org.knime.targetPlatform.feature.group" version="0.0.0"/>
-<unit id="org.knime.testing" version="0.0.0"/>
 <unit id="org.knime.core.ui.testing" version="0.0.0"/>
 <unit id="org.knime.core.columnar.testing" version="0.0.0"/>
 <unit id="org.knime.gateway.testing.helper" version="0.0.0"/>
